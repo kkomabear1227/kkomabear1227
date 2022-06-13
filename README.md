@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?&style-for-the-badge&logo=Codeforces&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style-for-the-badge&logo=Visual%20Studio&logoColor=white)
 
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=kkomabear1227)]
+![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=kkomabear1227)
