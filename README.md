@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kkomabear1227/kkomabear1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?&style-for-the-badge&logo=Codeforces&logoColor=white)
